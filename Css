@@ -1,1 +1,128 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://wallpapercave.com/wp/wp6012424.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    width: 100vw;
+}
+
+.selena-width {
+    width: 100vw;
+}
+
+.card-container {
+    background-color: white;
+    border-radius: 18px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.music-heading {
+    font-family: 'monoton';
+}
+
+.music-paragraph {
+    font-style: italic;
+}
+
+.card-button {
+    border-radius: 10px;
+    background-color: skyblue;
+    border-width: 0px;
+    height: 38px;
+    width: 120px;
+}
+
+.singers-bg-container {
+    background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/04/Ocean-waves-wallpaper-HD-download-free.png");
+    background-size: cover;
+    padding: 15px;
+
+}
+
+.singers-card-container {
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+}
+
+.popular-singers-heading {
+    font-family: 'monoton';
+    color: white;
+    margin-left: 18px;
+    margin-top: 1px;
+}
+
+.singers-card-heading {
+    font-family: 'caveat';
+}
+
+.singers-card-paragraph {
+    font-style: italic;
+}
+
+.singers-image {
+    height: 140px;
+    width: 110px;
+    margin-top: 20px;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.selena-bg-container {
+    background-image: url("http://hddesktopwallpapers.in/wp-content/uploads/2015/07/ocean-wallpaper-sailing.jpg");
+    background-size: cover;
+    width: 105vw;
+    padding: 20px;
+}
+
+.selena-heading {
+    font-style: italic;
+    color: white;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.selena-bottom {
+    background-color: white;
+    padding: 10px;
+}
+
+.pop-heading {
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.pop-paragraph {
+    font-style: italic;
+    color: ;
+}
+
+.selena-button-center {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.selena-button {
+    border-radius: 10px;
+    background-color: skyblue;
+    color: white;
+    border-width: 0px;
+    height: 35px;
+    width: 120px;
+}
+
+.video-bg-container {
+    background-image: url("https://www.hdwallpapers.in/download/ocean_rocks_on_starry_night_4k_hd_nature-640x1136.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+    width: 100vw;
+}
